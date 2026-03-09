@@ -3,7 +3,7 @@
 A real-time particle-based fluid simulation running on the M5StickC Plus2. Tilt the device and watch 300 particles slosh around like liquid on the screen.
 
 ---
-![Uploading am54j4.gif…]()
+![am54j4](https://github.com/user-attachments/assets/ad3ce087-bd02-4a4c-9784-fea3cbfe8009)
 
 ## How It Works
 
