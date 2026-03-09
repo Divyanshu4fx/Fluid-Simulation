@@ -59,6 +59,5 @@ idf.py -p /dev/ttyUSB0 flash monitor
 
 ## Notes
 
-- `pins.h` is not included — you need to define your own based on your board wiring.
 - The frame buffer is allocated in DMA-capable memory for fast SPI transfers.
 - Particle colors are hardcoded as two shades of green (RGB565). Change `swapped_core` and `swapped_edge` in the render task to use different colors.
